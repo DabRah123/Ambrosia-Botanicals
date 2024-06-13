@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	
+	>
+<channel>
+	<title>
+	Comments on: Blog 5	</title>
+	<atom:link href="https://dabrah123.github.io/Ambrosia-Botanicals/blog-5/feed/" rel="self" type="application/rss+xml" />
+	<link>https://dabrah123.github.io/Ambrosia-Botanicals/blog-5/</link>
+	<description>PAN India Delivery</description>
+	<lastBuildDate>Fri, 07 Jun 2024 10:54:49 +0000</lastBuildDate>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.5.4</generator>
+	<item>
+		<title>
+		By: DabRah		</title>
+		<link>https://dabrah123.github.io/Ambrosia-Botanicals/blog-5/#comment-23</link>
+
+		<dc:creator><![CDATA[DabRah]]></dc:creator>
+		<pubDate>Fri, 07 Jun 2024 10:54:49 +0000</pubDate>
+		<guid isPermaLink="false">https://dabrah123.github.io/Ambrosia-Botanicals/?p=178#comment-23</guid>
+
+					<description><![CDATA[Nice blog!]]></description>
+			<content:encoded><![CDATA[<p>Nice blog!</p>
+]]></content:encoded>
+		
+			</item>
+	</channel>
+</rss>
